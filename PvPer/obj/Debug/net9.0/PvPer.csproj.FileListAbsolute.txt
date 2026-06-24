@@ -1,0 +1,13 @@
+C:\Users\ПК\Desktop\PvPer\obj\Debug\net9.0\PvPer.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\PvPer\obj\Debug\net9.0\PvPer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\PvPer\obj\Debug\net9.0\PvPer.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\PvPer\obj\Debug\net9.0\PvPer.AssemblyInfo.cs
+C:\Users\ПК\Desktop\PvPer\obj\Debug\net9.0\PvPer.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\PvPer\bin\Debug\net9.0\HttpServer.dll
+C:\Users\ПК\Desktop\PvPer\bin\Debug\net9.0\PvPer.deps.json
+C:\Users\ПК\Desktop\PvPer\bin\Debug\net9.0\PvPer.dll
+C:\Users\ПК\Desktop\PvPer\bin\Debug\net9.0\PvPer.pdb
+C:\Users\ПК\Desktop\PvPer\obj\Debug\net9.0\PvPer.dll
+C:\Users\ПК\Desktop\PvPer\obj\Debug\net9.0\refint\PvPer.dll
+C:\Users\ПК\Desktop\PvPer\obj\Debug\net9.0\PvPer.pdb
+C:\Users\ПК\Desktop\PvPer\obj\Debug\net9.0\ref\PvPer.dll
